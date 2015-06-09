@@ -1,0 +1,480 @@
+\ifglsentryexists{sts}{}%
+{%
+\gls@defglossaryentry{sts}%
+{%
+name={STS},%
+sort={STS},%
+type={acronym},%
+first={Short Time-Series Distance\glsspace (STS)},%
+firstplural={Short Time-Series Distances\glsspace (STSs)},%
+text={STS},%
+plural={STSs},%
+description={Short Time-Series Distance},%
+descriptionplural={Short Time-Series Distance\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Short Time-Series Distance},%
+longplural={Short Time-Series Distances},%
+short={STS},%
+shortplural={STSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{lcss}{}%
+{%
+\gls@defglossaryentry{lcss}%
+{%
+name={LCSS},%
+sort={LCSS},%
+type={acronym},%
+first={Longest Common Subsequence\glsspace (LCSS)},%
+firstplural={Longest Common Subsequences\glsspace (LCSSs)},%
+text={LCSS},%
+plural={LCSSs},%
+description={Longest Common Subsequence},%
+descriptionplural={Longest Common Subsequence\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Longest Common Subsequence},%
+longplural={Longest Common Subsequences},%
+short={LCSS},%
+shortplural={LCSSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{edr}{}%
+{%
+\gls@defglossaryentry{edr}%
+{%
+name={EDR},%
+sort={EDR},%
+type={acronym},%
+first={Edit Distance for Real Sequences\glsspace (EDR)},%
+firstplural={Edit Distance for Real Sequencess\glsspace (EDRs)},%
+text={EDR},%
+plural={EDRs},%
+description={Edit Distance for Real Sequences},%
+descriptionplural={Edit Distance for Real Sequences\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Edit Distance for Real Sequences},%
+longplural={Edit Distance for Real Sequencess},%
+short={EDR},%
+shortplural={EDRs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{erp}{}%
+{%
+\gls@defglossaryentry{erp}%
+{%
+name={ERP},%
+sort={ERP},%
+type={acronym},%
+first={Edit Distance with Real penalty\glsspace (ERP)},%
+firstplural={Edit Distance with Real penaltys\glsspace (ERPs)},%
+text={ERP},%
+plural={ERPs},%
+description={Edit Distance with Real penalty},%
+descriptionplural={Edit Distance with Real penalty\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Edit Distance with Real penalty},%
+longplural={Edit Distance with Real penaltys},%
+short={ERP},%
+shortplural={ERPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{dwt}{}%
+{%
+\gls@defglossaryentry{dwt}%
+{%
+name={DWT},%
+sort={DWT},%
+type={acronym},%
+first={Discrete Wavelet Transformation\glsspace (DWT)},%
+firstplural={Discrete Wavelet Transformations\glsspace (DWTs)},%
+text={DWT},%
+plural={DWTs},%
+description={Discrete Wavelet Transformation},%
+descriptionplural={Discrete Wavelet Transformation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Discrete Wavelet Transformation},%
+longplural={Discrete Wavelet Transformations},%
+short={DWT},%
+shortplural={DWTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{pla}{}%
+{%
+\gls@defglossaryentry{pla}%
+{%
+name={PLA},%
+sort={PLA},%
+type={acronym},%
+first={Piecewise Linear Approximation\glsspace (PLA)},%
+firstplural={Piecewise Linear Approximations\glsspace (PLAs)},%
+text={PLA},%
+plural={PLAs},%
+description={Piecewise Linear Approximation},%
+descriptionplural={Piecewise Linear Approximation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Piecewise Linear Approximation},%
+longplural={Piecewise Linear Approximations},%
+short={PLA},%
+shortplural={PLAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{paa}{}%
+{%
+\gls@defglossaryentry{paa}%
+{%
+name={PAA},%
+sort={PAA},%
+type={acronym},%
+first={Piecewise Aggregate Approximation\glsspace (PAA)},%
+firstplural={Piecewise Aggregate Approximations\glsspace (PAAs)},%
+text={PAA},%
+plural={PAAs},%
+description={Piecewise Aggregate Approximation},%
+descriptionplural={Piecewise Aggregate Approximation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Piecewise Aggregate Approximation},%
+longplural={Piecewise Aggregate Approximations},%
+short={PAA},%
+shortplural={PAAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{sax}{}%
+{%
+\gls@defglossaryentry{sax}%
+{%
+name={SAX},%
+sort={SAX},%
+type={acronym},%
+first={Symbolic Aggregate Approximation\glsspace (SAX)},%
+firstplural={Symbolic Aggregate Approximations\glsspace (SAXs)},%
+text={SAX},%
+plural={SAXs},%
+description={Symbolic Aggregate Approximation},%
+descriptionplural={Symbolic Aggregate Approximation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Symbolic Aggregate Approximation},%
+longplural={Symbolic Aggregate Approximations},%
+short={SAX},%
+shortplural={SAXs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{hmm}{}%
+{%
+\gls@defglossaryentry{hmm}%
+{%
+name={HMM},%
+sort={HMM},%
+type={acronym},%
+first={Hidden Markow Model\glsspace (HMM)},%
+firstplural={Hidden Markow Models\glsspace (HMMs)},%
+text={HMM},%
+plural={HMMs},%
+description={Hidden Markow Model},%
+descriptionplural={Hidden Markow Model\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Hidden Markow Model},%
+longplural={Hidden Markow Models},%
+short={HMM},%
+shortplural={HMMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{sarhmm}{}%
+{%
+\gls@defglossaryentry{sarhmm}%
+{%
+name={SAR-HMM},%
+sort={SAR-HMM},%
+type={acronym},%
+first={Switching autoregressive moving average Hidden Markov Model\glsspace (SAR-HMM)},%
+firstplural={Switching autoregressive moving average Hidden Markov Models\glsspace (SAR-HMMs)},%
+text={SAR-HMM},%
+plural={SAR-HMMs},%
+description={Switching autoregressive moving average Hidden Markov Model},%
+descriptionplural={Switching autoregressive moving average Hidden Markov Model\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Switching autoregressive moving average Hidden Markov Model},%
+longplural={Switching autoregressive moving average Hidden Markov Models},%
+short={SAR-HMM},%
+shortplural={SAR-HMMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{arma}{}%
+{%
+\gls@defglossaryentry{arma}%
+{%
+name={ARMA},%
+sort={ARMA},%
+type={acronym},%
+first={Autoregressive Moving Average\glsspace (ARMA)},%
+firstplural={Autoregressive Moving Averages\glsspace (ARMAs)},%
+text={ARMA},%
+plural={ARMAs},%
+description={Autoregressive Moving Average},%
+descriptionplural={Autoregressive Moving Average\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Autoregressive Moving Average},%
+longplural={Autoregressive Moving Averages},%
+short={ARMA},%
+shortplural={ARMAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{phmm}{}%
+{%
+\gls@defglossaryentry{phmm}%
+{%
+name={pHMM},%
+sort={pHMM},%
+type={acronym},%
+first={pattern based Hidden Markov Model\glsspace (pHMM)},%
+firstplural={pattern based Hidden Markov Models\glsspace (pHMMs)},%
+text={pHMM},%
+plural={pHMMs},%
+description={pattern based Hidden Markov Model},%
+descriptionplural={pattern based Hidden Markov Model\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={pattern based Hidden Markov Model},%
+longplural={pattern based Hidden Markov Models},%
+short={pHMM},%
+shortplural={pHMMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{dft}{}%
+{%
+\gls@defglossaryentry{dft}%
+{%
+name={DFT},%
+sort={DFT},%
+type={acronym},%
+first={Discrete Fourier Transformation\glsspace (DFT)},%
+firstplural={Discrete Fourier Transformations\glsspace (DFTs)},%
+text={DFT},%
+plural={DFTs},%
+description={Discrete Fourier Transformation},%
+descriptionplural={Discrete Fourier Transformation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Discrete Fourier Transformation},%
+longplural={Discrete Fourier Transformations},%
+short={DFT},%
+shortplural={DFTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{isax}{}%
+{%
+\gls@defglossaryentry{isax}%
+{%
+name={iSAX},%
+sort={iSAX},%
+type={acronym},%
+first={indexed Symbolic Aggregate Approximation\glsspace (iSAX)},%
+firstplural={indexed Symbolic Aggregate Approximations\glsspace (iSAXs)},%
+text={iSAX},%
+plural={iSAXs},%
+description={indexed Symbolic Aggregate Approximation},%
+descriptionplural={indexed Symbolic Aggregate Approximation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={indexed Symbolic Aggregate Approximation},%
+longplural={indexed Symbolic Aggregate Approximations},%
+short={iSAX},%
+shortplural={iSAXs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{dwt}{}%
+{%
+\gls@defglossaryentry{dwt}%
+{%
+name={DWT},%
+sort={DWT},%
+type={acronym},%
+first={Discrete Wavelet Transformation\glsspace (DWT)},%
+firstplural={Discrete Wavelet Transformations\glsspace (DWTs)},%
+text={DWT},%
+plural={DWTs},%
+description={Discrete Wavelet Transformation},%
+descriptionplural={Discrete Wavelet Transformation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Discrete Wavelet Transformation},%
+longplural={Discrete Wavelet Transformations},%
+short={DWT},%
+shortplural={DWTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{dynTime}{}%
+{%
+\gls@defglossaryentry{dynTime}%
+{%
+name={DTW},%
+sort={DTW},%
+type={acronym},%
+first={Dynamic Time Warping\glsspace (DTW)},%
+firstplural={Dynamic Time Warpings\glsspace (DTWs)},%
+text={DTW},%
+plural={DTWs},%
+description={Dynamic Time Warping},%
+descriptionplural={Dynamic Time Warping\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Dynamic Time Warping},%
+longplural={Dynamic Time Warpings},%
+short={DTW},%
+shortplural={DTWs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
